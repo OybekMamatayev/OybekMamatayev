@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/OybekMamatayev">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&duration=3000&pause=1000&color=2A3EB1&center=true&vCenter=true&width=520&lines=Flutter+%26+Dart+Developer;Fintech+Hub+bitiruvchisi;Node.js+o'rganmoqdaman+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&duration=3000&pause=1000&color=2A3EB1&center=true&vCenter=true&width=520&lines=Flutter+%26+Dart+Developer;Fintech+Hub+bitiruvchisi;Node.js va JavaScript+o'rganmoqdaman+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
