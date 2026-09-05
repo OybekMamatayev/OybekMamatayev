@@ -10,7 +10,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=OybekMamatayev&label=Profile%20views&color=2A3EB1&style=flat" alt="profile views" />
 
 </div>
 
