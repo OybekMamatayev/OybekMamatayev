@@ -20,29 +20,36 @@
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> Men haqimda
 
-```dart
-class Oybek extends Developer {
-  @override
-  String get name => 'Oybek Mamatayev';
-
-  @override
-  String get location => 'Toshkent, O\'zbekiston 🇺🇿';
-
-  @override
-  String get education => 'Fintech Hub — Flutter Development';
-
-  @override
-  List<String> get stack => [
-    'Flutter', 'Dart', 'BLoC / Cubit', 'Provider', 'REST API', 'Firebase'
-  ];
-
-  @override
-  List<String> get learning => ['Node.js', 'JavaScript'];
-
-  @override
-  String get goal => 'Full-stack mobil dasturchi bo\'lish';
-}
-```
+<table>
+<tr>
+<td width="180"><b>📍 Joylashuv</b></td>
+<td>Toshkent, O'zbekiston 🇺🇿</td>
+</tr>
+<tr>
+<td><b>🎓 Ta'lim</b></td>
+<td>Fintech Hub — Flutter Development</td>
+</tr>
+<tr>
+<td><b>💼 Yo'nalish</b></td>
+<td>Mobil ilovalar dasturchisi (Flutter / Dart)</td>
+</tr>
+<tr>
+<td><b>🧰 Asosiy stack</b></td>
+<td>Flutter · Dart · BLoC / Cubit · Provider · REST API · Firebase</td>
+</tr>
+<tr>
+<td><b>🌱 Hozir o'rganmoqdaman</b></td>
+<td>Node.js · JavaScript</td>
+</tr>
+<tr>
+<td><b>🎯 Maqsad</b></td>
+<td>Full-stack mobil dasturchi bo'lish</td>
+</tr>
+<tr>
+<td><b>📫 Bog'lanish</b></td>
+<td>oybekmamatayev@gmail.com</td>
+</tr>
+</table>
 
 <br/>
 
